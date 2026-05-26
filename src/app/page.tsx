@@ -71,27 +71,27 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "1",
-          imageSrc: "http://img.b2bpic.net/free-photo/rustic-chandelier-made-bulbs-ropes-dining-table-vintage-kitchen_181624-9173.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/rustic-chandelier-made-bulbs-ropes-dining-table-vintage-kitchen_181624-9173.jpg?_wi=1",
           imageAlt: "Cozy restaurant interior with warm lighting",
         },
         {
           id: "2",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-pakistan-meal-composition-with-copy-space_23-2148821532.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-pakistan-meal-composition-with-copy-space_23-2148821532.jpg?_wi=1",
           imageAlt: "Delicious Biryani served on a plate",
         },
         {
           id: "3",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-high-protein-meal-composition_23-2149089634.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-high-protein-meal-composition_23-2149089634.jpg?_wi=1",
           imageAlt: "Paneer Tikka skewers grilled to perfection",
         },
         {
           id: "4",
-          imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-hummus-wooden-bowl-with-wooden-spoon-garlic-pieces-black-table_181624-31971.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-hummus-wooden-bowl-with-wooden-spoon-garlic-pieces-black-table_181624-31971.jpg?_wi=1",
           imageAlt: "Creamy Butter Chicken with fresh naan bread",
         },
         {
           id: "5",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-asian-girl-barista-working-cafe-brewing-coffee-v-preparing-order-counter_1258-199495.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-asian-girl-barista-working-cafe-brewing-coffee-v-preparing-order-counter_1258-199495.jpg?_wi=1",
           imageAlt: "Friendly staff serving food in restaurant",
         },
         {
@@ -244,7 +244,7 @@ export default function LandingPage() {
           tag: "Dine-in",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-businesswoman-portrait-office_1262-1506.jpg",
           avatarAlt: "Tarannum Khan",
-          imageSrc: "http://img.b2bpic.net/free-photo/rustic-chandelier-made-bulbs-ropes-dining-table-vintage-kitchen_181624-9173.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/rustic-chandelier-made-bulbs-ropes-dining-table-vintage-kitchen_181624-9173.jpg?_wi=2",
           imageAlt: "indian woman portrait smiling happy",
         },
         {
@@ -256,7 +256,7 @@ export default function LandingPage() {
           tag: "Local Guide",
           avatarSrc: "http://img.b2bpic.net/free-photo/black-businessman-sad-expression_1194-2739.jpg",
           avatarAlt: "Mohammad Noman",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-pakistan-meal-composition-with-copy-space_23-2148821532.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-pakistan-meal-composition-with-copy-space_23-2148821532.jpg?_wi=2",
           imageAlt: "indian woman portrait smiling happy",
         },
         {
@@ -268,7 +268,7 @@ export default function LandingPage() {
           tag: "Ambiance",
           avatarSrc: "http://img.b2bpic.net/free-photo/selfie-portrait-videocall_23-2149186144.jpg",
           avatarAlt: "Khatoon Hoon",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-high-protein-meal-composition_23-2149089634.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-high-protein-meal-composition_23-2149089634.jpg?_wi=2",
           imageAlt: "indian woman portrait smiling happy",
         },
         {
@@ -280,7 +280,7 @@ export default function LandingPage() {
           tag: "Customer",
           avatarSrc: "http://img.b2bpic.net/free-photo/enthusiastic-asian-female-entrepreneur-cafe-owner-with-tablet-wearing-shop-uniform-standing-with_1258-203446.jpg",
           avatarAlt: "Rahul Sharma",
-          imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-hummus-wooden-bowl-with-wooden-spoon-garlic-pieces-black-table_181624-31971.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/overhead-shot-hummus-wooden-bowl-with-wooden-spoon-garlic-pieces-black-table_181624-31971.jpg?_wi=2",
           imageAlt: "indian woman portrait smiling happy",
         },
         {
@@ -292,7 +292,7 @@ export default function LandingPage() {
           tag: "Regular",
           avatarSrc: "http://img.b2bpic.net/free-photo/chef-standing-by-counter-serving-salad-from-cabbage-holding-chilli-pepper_1303-32139.jpg",
           avatarAlt: "Priya Devi",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-asian-girl-barista-working-cafe-brewing-coffee-v-preparing-order-counter_1258-199495.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-asian-girl-barista-working-cafe-brewing-coffee-v-preparing-order-counter_1258-199495.jpg?_wi=2",
           imageAlt: "indian woman portrait smiling happy",
         },
       ]}
